@@ -2,7 +2,7 @@
 
 Tracking my progress in fulfilling a CS major at Yale-NUS College.
 
-![Progress](https://progress-bar.dev/500/9/?title=CS@YNC)
+![Progress](https://progress-bar.dev/56/?title=CS@YNC)
 https://progress-bar.dev/500/9/?title=CS@YNC
 
 [![Screenshot-2022-06-22-at-2-13-34-PM.png](https://i.postimg.cc/Lswv9PxT/Screenshot-2022-06-22-at-2-13-34-PM.png)](https://postimg.cc/KK7tQ1Sk)
