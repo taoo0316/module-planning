@@ -8,14 +8,14 @@ Tracking my progress in fulfilling a CS major at Yale-NUS College.
 
 Completed:
 
-YSC 1216 Calculus ✅
+YSC1216 Calculus ✅
 
-YSC 2239 Introduction to Data Science ✅
+YSC2239 Introduction to Data Science ✅
 
-YSC 1212 Introduction to Computer Science ✅
+YSC1212 Introduction to Computer Science ✅
 
-YSC 2209 Proof ✅
+YSC2209 Proof ✅
 
-YSC 4224 Applied Data Science ✅
+YSC4224 Applied Data Science ✅
 
 In Progress:
