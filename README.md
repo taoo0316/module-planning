@@ -23,6 +23,7 @@ YSC2209 Proof ✅
 YSC4224 Applied Data Science ✅
 
 In Progress:
+
 YSC2229 Introductory Data Structures and Algorithms
 
 YSC2244 Programming for Data Science
